@@ -9,4 +9,4 @@ license: openrail++
 short_description: 'Bible Study on the book of Genesis '
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Check out the prototype at https://huggingface.co/spaces/kcheng0816/BibleStudy
